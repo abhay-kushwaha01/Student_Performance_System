@@ -74,7 +74,7 @@ make
 ./student_system
 ```
 
-## Access
+## Acce\
 
 The application starts directly on the dashboard. No administrator login, password, session, or sign-out system is required.
 
