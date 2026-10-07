@@ -2,7 +2,7 @@
 
 A professional local web application for managing students, marks, attendance, and performance analysis. The backend is implemented entirely in **C (C99+)** using raw sockets and C file handling. The frontend uses HTML, CSS, and Vanilla JavaScript.
 
-## Technology 123
+## Technology   
 - Backend: C99, C standard library, sockets, file handling
 - Frontend: HTML5, CSS3, Vanilla JavaScript
 - Storage: `.dat` files managed by C
