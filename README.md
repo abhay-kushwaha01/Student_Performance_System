@@ -9,7 +9,7 @@ A professional local web application for managing students, marks, attendance, a
 - Server: lightweight HTTP server on `localhost:8080`
 - No database, Python, Flask, Node.js, React, PHP, Java, C++, or cloud backend
 
-## Folder structure
+## Folder structure under
 
 ```text
 StudentPerformanceSystem/
